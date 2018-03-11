@@ -1,0 +1,10 @@
+﻿  Source.cpp
+c:\users\arnex\source\repos\rk\rk\source.cpp(12): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+c:\users\arnex\source\repos\rk\rk\source.cpp(27): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\arnex\source\repos\rk\rk\source.cpp(33): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\arnex\source\repos\rk\rk\source.cpp(41): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\arnex\source\repos\rk\rk\source.cpp(47): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\arnex\source\repos\rk\rk\source.cpp(59): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\arnex\source\repos\rk\rk\source.cpp(65): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\arnex\source\repos\rk\rk\source.cpp(68): warning C4244: аргумент: преобразование "float" в "const unsigned int", возможна потеря данных
+  rk.vcxproj -> c:\Users\arnex\source\repos\rk\Debug\rk.exe
